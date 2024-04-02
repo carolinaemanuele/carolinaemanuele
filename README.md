@@ -21,7 +21,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolinaemanuele&theme=transparent&bg_color=140721&border_color=930AAB&show_icons=true&icon_color=c407e6&title_color=e02dd5&text_color=a904c7)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carolinaemanuele&bg_color=140721&border_color=930AAB&title_color=e02dd5&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinaemanuele&bg_color=140721&border_color=930AAB&title_color=e02dd5&text_color=FFF)
+
 ### PRINCIPAIS PROJETOS
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=carolinaemanuele&repo=Leet_Code&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=c407e6&title_color=e02dd5&text_color=FFF)](https://github.com/carolinaemanuele/Leet_Code)
 
@@ -35,7 +36,10 @@
 ---
 ## CONTATO:
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-emanuele)
-##
+
 ---
 
+> ***"Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento."​* - Albert Eistein**
+
+---
 ![BUILT](http://ForTheBadge.com/images/badges/built-with-love.svg)

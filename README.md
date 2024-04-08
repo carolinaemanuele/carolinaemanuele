@@ -37,6 +37,8 @@
 ## CONTATO
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-emanuele)
 
+[![Contact me using Formspree](https://img.shields.io/badge/Contact%20me-Formspree-<COLOR>.svg)](https://carolinaemanuele.github.io/carolinaemanuele/)
+
 ---
 
 > ***"Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento."​* - Albert Eistein**

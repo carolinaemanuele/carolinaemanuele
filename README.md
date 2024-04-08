@@ -1,8 +1,8 @@
-# Hello word! 🌎
+# Hello world! 🌎
 ---
 ## Meu nome é Carolina Araújo, atualmente estou cursando engenharia elétrica na Universidade Federal da Bahia.
 ---
-## TECNOLOGIAS QUE ESTOU APRENDENDO:
+## TECNOLOGIAS QUE ESTOU APRENDENDO
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,8 +34,10 @@
 [![KAGGLE](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/carolinaemanuele)
 
 ---
-## CONTATO:
+## CONTATO
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-emanuele)
+
+[![Formspree Badge](https://img.shields.io/badge/Contact%20me-via%20Formspree-brightgreen)](https://formspree.io/f/mzbnkrdj)
 
 ---
 

@@ -27,6 +27,8 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=carolinaemanuele&repo=Leet_Code&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=c407e6&title_color=e02dd5&text_color=FFF)](https://github.com/carolinaemanuele/Leet_Code)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=carolinaemanuele&repo=Sistema-de-Informacoes-Educacionais---SIED&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=c407e6&title_color=e02dd5&text_color=FFF)](https://github.com/carolinaemanuele/Sistema-de-Informacoes-Educacionais---SIED)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=carolinaemanuele&repo=Smoke-Detection-Kaggle&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=c407e6&title_color=e02dd5&text_color=FFF)](https://github.com/carolinaemanuele/Smoke-Detection-Kaggle)
 ---
 ## PLATAFORMAS
 [![LEETCODE](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/carolinaemanuele/)
